@@ -12,6 +12,7 @@
     <strong>View: </strong> <a href="https://c46groupa.hackyourfuture.tech/" >RecycleEase</a> 
     <br /> 
     <br /> 
+    <br/>
   </div>
 
 - <div>
