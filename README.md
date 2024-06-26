@@ -53,7 +53,7 @@
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=AJasem&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajasem&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJasem&count_private=true&theme=dracula">
 
 </p>
 
