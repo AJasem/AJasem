@@ -19,7 +19,7 @@
      <img width="250" height="100" align='right' src="https://ajassem.sirv.com/dmail.png" >
      <strong>Dmail</strong> Direct Easy and with no personal information needed send and receive emails
      <br />
-     <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/verma_anushka/articles" >Dmail</a> 
+     <strong>View: </strong> <a href="https://dmail.ahmads.dev/" >Dmail</a> 
  
      <br/>
      <br/> 
