@@ -14,7 +14,7 @@
     <br /> 
     <br/>
   </div>
-
+***
 - <div>
      <img width="250" height="100" align='right' src="https://ajassem.sirv.com/dmail.png" >
      <strong>Dmail</strong> Direct Easy and with no personal information needed send and receive emails
@@ -24,7 +24,8 @@
      <br/>
      <br/>
    </div>
-   - <div>
+***
+- <div>
     <img width="250" height="100" align='left' src="https://ajassem.sirv.com/hyq-CZ2GNANM.png" >
     <strong>HYQ</strong> A simple Quiz app.
     <br />
