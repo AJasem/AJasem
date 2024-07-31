@@ -36,6 +36,28 @@
   </div>
 
   ***
+- <div>
+    <img width="250" height="100" align='right' src="https://ajassem.sirv.com/realestate.png" >
+    <strong>Realestate</strong> Realestate app.
+    <br />
+    <strong>View: </strong> <a href="https://realestate.ahmads.dev" >Realestate app using Django</a> 
+    <br /> 
+    <br /> 
+    <br/>
+  </div>
+
+  ***
+- <div>
+    <img width="250" height="100" align='left' src="https://ajassem.sirv.com/weather.png" >
+    <strong>Weather app</strong> Weather app.
+    <br />
+    <strong>View: </strong> <a href="https://weather.ahmads.dev" >Weather app using Django</a> 
+    <br /> 
+    <br /> 
+    <br/>
+  </div>
+
+  ***
   
 **Languages i am learning:**
 <p align='center'>
