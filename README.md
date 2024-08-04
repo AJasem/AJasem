@@ -58,6 +58,18 @@
   </div>
 
   ***
+
+- <div>
+    <img width="250" height="100" align='right' src="https://ajassem.sirv.com/Screenshot_4-8-2024_205015_chat.ahmads.dev.jpeg" >
+    <strong>Chat app</strong> Chat app using Django React and socketio.
+    <br />
+    <strong>View: </strong> <a href="https://chat.ahmads.dev" >Chat app </a> 
+    <br /> 
+    <br /> 
+    <br/>
+  </div>
+
+  ***
   
 **Languages i am learning:**
 <p align='center'>
